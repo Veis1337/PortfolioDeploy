@@ -9,7 +9,7 @@ provide functionality I couldn't have dreamed up at the beginning of my coding j
 
 ## Installation
 
-Deployed at http://Veis1337.github.io/ReactPortfolio
+Deployed at http://Veis1337.github.io/PortfolioDeploy
 
 ## Usage
 
