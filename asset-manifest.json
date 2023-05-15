@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/PortfolioDeploy/static/css/main.a07299d4.css",
-    "main.js": "/PortfolioDeploy/static/js/main.b65adb75.js",
+    "main.css": "/PortfolioDeploy/static/css/main.28cc6069.css",
+    "main.js": "/PortfolioDeploy/static/js/main.5ac7a47c.js",
+    "static/media/LaunchPad.png": "/PortfolioDeploy/static/media/LaunchPad.c639c5d62f5a6d6812db.png",
     "static/media/react.png": "/PortfolioDeploy/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/PortfolioDeploy/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/WellnessWatcher.png": "/PortfolioDeploy/static/media/WellnessWatcher.ce210802294dccefc1a9.png",
@@ -10,14 +11,13 @@
     "static/media/html.png": "/PortfolioDeploy/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/PortfolioDeploy/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/css.png": "/PortfolioDeploy/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/PkmnBattler.png": "/PortfolioDeploy/static/media/PkmnBattler.7fbaba7eb368451f74eb.png",
     "static/media/javascript.png": "/PortfolioDeploy/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/PortfolioDeploy/index.html",
-    "main.a07299d4.css.map": "/PortfolioDeploy/static/css/main.a07299d4.css.map",
-    "main.b65adb75.js.map": "/PortfolioDeploy/static/js/main.b65adb75.js.map"
+    "main.28cc6069.css.map": "/PortfolioDeploy/static/css/main.28cc6069.css.map",
+    "main.5ac7a47c.js.map": "/PortfolioDeploy/static/js/main.5ac7a47c.js.map"
   },
   "entrypoints": [
-    "static/css/main.a07299d4.css",
-    "static/js/main.b65adb75.js"
+    "static/css/main.28cc6069.css",
+    "static/js/main.5ac7a47c.js"
   ]
 }
