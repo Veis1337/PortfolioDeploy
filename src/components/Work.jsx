@@ -1,5 +1,5 @@
 import React from "react";
-import Pkmn from "../assets/projects/PkmnBattler.png";
+import LaunchPad from "../assets/projects/LaunchPad.png";
 import TechBlog from "../assets/projects/TechBlog.png"
 import Wellness from "../assets/projects/WellnessWatcher.png"
 import Mongo from "../assets/mongo.png"
@@ -17,7 +17,7 @@ const Work = () => {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
 
           <div 
-          style={{ backgroundImage: `url(${Pkmn})` }}
+          style={{ backgroundImage: `url(${LaunchPad})` }}
           className="shadow-lg shadow-[#2b162e] bg-[#363b4e] group container rounded-md flex justify-center items-center mx-auto content-div">
 
             {/*Hover Effect*/}
@@ -25,15 +25,15 @@ const Work = () => {
 
             {/*Project 1*/}
               <span className="font-bold px-4 py-3 m-2 text-[#f6e5e5] tracking-wider">
-                MERN Stack Pokemon Battler
+                LaunchPad MERN Stack
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://launch-pad.herokuapp.com/" target='_blank'>
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-[#363b4e]">
-                    TBA... 
+                    Demo
                   </button>
                 </a>
-                <a href="https://github.com/Veis1337/Pkmn-Battler" target="_blank">
+                <a href="https://github.com/andykb9b13/Launch-Pad" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-[#363b4e]">
                     Code
                   </button>
