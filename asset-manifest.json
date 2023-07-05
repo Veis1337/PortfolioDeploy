@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PortfolioDeploy/static/css/main.28cc6069.css",
-    "main.js": "/PortfolioDeploy/static/js/main.13386e66.js",
+    "main.css": "/PortfolioDeploy/static/css/main.390178b0.css",
+    "main.js": "/PortfolioDeploy/static/js/main.621b1bbf.js",
     "static/media/LaunchPad.png": "/PortfolioDeploy/static/media/LaunchPad.c639c5d62f5a6d6812db.png",
     "static/media/react.png": "/PortfolioDeploy/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/PortfolioDeploy/static/media/node.952a9ea986dcfa5229ad.png",
@@ -13,11 +13,11 @@
     "static/media/css.png": "/PortfolioDeploy/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/PortfolioDeploy/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/PortfolioDeploy/index.html",
-    "main.28cc6069.css.map": "/PortfolioDeploy/static/css/main.28cc6069.css.map",
-    "main.13386e66.js.map": "/PortfolioDeploy/static/js/main.13386e66.js.map"
+    "main.390178b0.css.map": "/PortfolioDeploy/static/css/main.390178b0.css.map",
+    "main.621b1bbf.js.map": "/PortfolioDeploy/static/js/main.621b1bbf.js.map"
   },
   "entrypoints": [
-    "static/css/main.28cc6069.css",
-    "static/js/main.13386e66.js"
+    "static/css/main.390178b0.css",
+    "static/js/main.621b1bbf.js"
   ]
 }
